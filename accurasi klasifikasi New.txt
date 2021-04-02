@@ -1,0 +1,24 @@
+Naive Bayes Accuracy Score -> 96.62775616083009
+KNN Accuracy Score -> 98.0544747081712
+
+>>> data[data['topik']==1].count()
+index          3908
+No             3908
+Text           3908
+Username       3908
+TF_dict        3908
+TF-IDF_dict    3908
+TF_IDF_Vec     3908
+topik          3908
+dtype: int64
+>>> data[data['topik']==2].count()
+index          1229
+No             1229
+Text           1229
+Username       1229
+TF_dict        1229
+TF-IDF_dict    1229
+TF_IDF_Vec     1229
+topik          1229
+dtype: int64
+>>> 

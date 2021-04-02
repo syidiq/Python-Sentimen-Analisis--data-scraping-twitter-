@@ -1,0 +1,3 @@
+Topic: 0 Word: 0.022*"surat_lamar" + 0.015*"tips_super" + 0.011*"jokowi" + 0.009*"lamar" + 0.009*"surat" + 0.008*"liputankerja" + 0.008*"super" + 0.008*"liputankerja_follower" + 0.008*"liputankerja_follower_tips_super" + 0.007*"rumah_sakit"
+
+Topic: 1 Word: 0.032*"new_normal" + 0.018*"normal" + 0.018*"new" + 0.016*"positif_covid" + 0.007*"virus_corona" + 0.007*"krl_kendara" + 0.007*"rekan_kerja" + 0.007*"daeng_info" + 0.006*"positif" + 0.006*"agakarebaa_palu"
